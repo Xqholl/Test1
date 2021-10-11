@@ -1,0 +1,6 @@
+ID
+Summary
+Details
+Severity and Priority
+Description
+Attachments
